@@ -1,0 +1,24 @@
+LWJGL
+Lightweight Java Game Library
+Is wrapper around many graphics libraries and C-stuff that we can use in Java.
+OpenGL
+Open Graphics Library: Graphics Library Framework
+Is a open source graphics library for window handle and graphics.
+
+We'll learn about rendering
+We can't simply just draw a square, we need to create a mesh, sent it to the gpu and use a shader to describe how to draw this mesh
+Finally batching sped up our rendering. Instead of draw every single square we can draw them all in a one big batch.
+
+Animation System
+Finite State Automata
+We use to create animation systems, animation states and animation transitions.
+
+Physics
+Static objects and Dynamic Physics
+Collision detection and resolution.
+
+User Interface.
+Window management
+
+Packaging and distribution
+Packaging a Java Game and distribute our game :)
